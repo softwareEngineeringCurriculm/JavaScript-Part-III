@@ -22,8 +22,8 @@ Each section of practice exercises has a `Basic Requirements` portion. Some sect
 
 _For your ease of access – click the following links for each section's practice exercises._
 
-- Part I: [Booleans, Comparisons & Conditionals](./1-booleans-comparisons-conditionals)
-- Part II: [Logical Operators & Advanced Conditionals](./2-logical-operators-advanced-conditionals)
+- Part I: [Booleans, Comparisons & Conditionals](https://github.com/softwareEngineeringCurriculm/JavaScript-Part-III/tree/main/Exercises/1-booleans-comparisons-conditionals)
+- Part II: [Logical Operators & Advanced Conditionals](https://github.com/softwareEngineeringCurriculm/JavaScript-Part-III/tree/main/Exercises/1-booleans-comparisons-conditionals)
 
 
 ## Thinking about JavaScript
